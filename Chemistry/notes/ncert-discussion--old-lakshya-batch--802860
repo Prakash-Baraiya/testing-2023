@@ -1,0 +1,412 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "6349a4750f5610001930231e",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T16:40:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6349a55fd372d70011b201bf",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "D And F Block Elements 01 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "6349a55aa3db65001168d0a0",
+              "name": "d And f Block Elements _ NCERT Discussion (Part-01) _ Classnotes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/a7b89b67-5fb9-4699-94ea-5832e5a3cfc5.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6349a4aaaff85f0018b37405",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T16:40:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6349a5778c6fa30011b8afc5",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "D And F Block Elements 02 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "6349a5768f95490012c49db1",
+              "name": "d And f Block Elements _ NCERT Discussion (Part-02) _ Classnotes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/55887b11-e3c0-442b-ab9e-f50eefc3af12.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6349a4e752d5e50011eef157",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T16:40:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6349a596f4c1080011ddcdd4",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "D And F Block Elements 03 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "6349a595f7dd42001159ebbd",
+              "name": "d And f Block Elements _ NCERT Discussion (Part-03) _ Classnotes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/49d0499d-2718-42db-9868-15d972b93c9a.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6349a2ed450b3b0018ed4077",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T16:30:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6349a3aca0c92000116d8f9f",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Coordination Compounds 02  : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "6349a3aad23e8e00180dcbe2",
+              "name": "Coordination Compounds _ NCERT Discussion (Part-02) _ Classnotes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/4d94ff73-6b01-4eb4-8de4-888b864baafc.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6349a2bb8db741001154f193",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T16:20:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6349a3836d54ef0018ac1839",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Coordination Compounds 01 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "6349a380a0c92000116d8f5a",
+              "name": "Coordination Compounds _ NCERT Discussion (Part-01) _ Classnotes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/0125edec-49dd-4006-aebb-6659f8ba5384.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "634999cf74bf150011bbc9b3",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T16:10:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6349a0736217bc001170f39d",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Aldehyde and Ketones 02 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "6349a07289b4ce0018b89ab8",
+              "name": "Aldehyde and Ketones _ NCERT Discussion (Part-02) _ Classnotes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/e5729df0-d986-4abd-b9c7-84078b5e672f.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "63499805fb4941001862fbd0",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T16:00:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6349989c4234eb001b7305ef",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Alcohols Phenols And Ethers 01 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "6349989b3e23a90011dca2c7",
+              "name": "Alcohol Phenols & Ether _ NCERT Discussion Part-01 _ Classnotes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/c1248d04-204a-48d6-a984-d55fae2928ef.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6349993671a7940018bb3a1c",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T16:00:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "634998c0fcdf2d001859577d",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Alcohols Phenols And Ethers 02 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "634998bf8829c20011317527",
+              "name": "Alcohol Phenols & Eihers _ NCERT Discussion Part-02 _ Classnotes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/e24c9034-4c29-4b16-9a6b-e6278a9153ad.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6349595cede2a3001191950c",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T15:50:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "63495abafadd01001127e7f8",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Electrochemistry 01 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "63495ab8fd6e410011a44324",
+              "name": "Electrochemistry NCERT Discussion Part-01 Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/0aa27499-9b4e-4383-a0d1-a53dd6e755ef.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "63495b97f8a8760018f2801c",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T15:50:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "63495b152854870011971ad9",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Electrochemistry 02 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "63495b14420b3f0012972031",
+              "name": "Electrochemistry NCERT Discussion Part-02 Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/a55e8a34-c02d-4dcf-8acb-b317236a673a.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6349529f2e720c0011bb602b",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T15:40:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "634953001a46ce0011b16e84",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Chemical Kinetics 01 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "634a571609e2680011d1e5a8",
+              "name": "Chemical Kinetics NCERT Discussion (Part-01) Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/4d151473-1e69-45c3-a8dd-ba90cd52274a.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "634953e345e7450018287c79",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T15:40:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6349541aa10b48001864b278",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Chemical Kinetics 02 : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "634954067436e70011b2d60e",
+              "name": "Chemical Kinetics_ NCERT Discussion (Part-02) Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/cd37e152-fada-4431-8b2f-9219a8d77099.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "634932227e3422001167f91c",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-10-14T18:29:59.000Z",
+      "startTime": "2022-10-14T15:30:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "63493300b543bf0018cde676",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solution  : NCERT Discussion Notes || (Lakshya NEET 2023)",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "634932ff589a2f00129b36ec",
+              "name": "Solution_ NCERT Discussion Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/adfc3c39-168f-4868-a4b5-13facf3ca3ef.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    }
+  ],
+  "paginate": {
+    "limit": 20,
+    "totalCount": null
+  }
+}
