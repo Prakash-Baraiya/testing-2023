@@ -1,0 +1,209 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "626659a4cdf08b0018974a98",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-25T18:29:59.000Z",
+      "startTime": "2022-04-25T10:30:59.000Z",
+      "exerciseIds": [
+        {
+          "type": "Exercise",
+          "availableFor": [],
+          "status": "Active",
+          "title": "Solution : DPP 08 (MCQ Quiz)",
+          "content": [
+            {
+              "_id": "62665a972bd14f001e8c3bbf",
+              "exerciseId": "62665a97357d510018863025",
+              "timeline": []
+            }
+          ],
+          "slug": "solution---dpp-08--mcq-quiz--936623"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "626127ff73f0c10011834553",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-21T18:29:59.000Z",
+      "startTime": "2022-04-21T10:30:59.000Z",
+      "exerciseIds": [
+        {
+          "type": "Exercise",
+          "availableFor": [],
+          "status": "Active",
+          "title": "Solution : DPP 07 (MCQ Quiz)",
+          "content": [
+            {
+              "_id": "626282c96b476800184a4431",
+              "exerciseId": "626282c77959050011b7ffa0",
+              "timeline": []
+            }
+          ],
+          "slug": "solution---dpp-07--mcq-quiz--487582"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "625fd23093cc3500184500c7",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-20T18:29:59.000Z",
+      "startTime": "2022-04-20T10:30:59.000Z",
+      "exerciseIds": [
+        {
+          "type": "Exercise",
+          "availableFor": [],
+          "status": "Active",
+          "title": "Solution : DPP 06 (MCQ Quiz)",
+          "content": [
+            {
+              "_id": "625fd3b342862e00117c553c",
+              "exerciseId": "625fd3b3e55e6e0011a1d482",
+              "timeline": []
+            }
+          ],
+          "slug": "solution---dpp-06--mcq-quiz--007828"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "625d334814a24d00182a7e30",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-18T18:29:59.000Z",
+      "startTime": "2022-04-18T10:30:59.000Z",
+      "exerciseIds": [
+        {
+          "type": "Exercise",
+          "availableFor": [],
+          "status": "Active",
+          "title": "Solution : DPP 05 (MCQ Quiz)",
+          "content": [
+            {
+              "_id": "625e518b78ea400018e76c6f",
+              "exerciseId": "625e518bc2c27d00117d9060",
+              "timeline": []
+            }
+          ],
+          "slug": "solution---dpp-05--mcq-quiz--893316"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "625671332489ab001153f0df",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-13T18:29:59.000Z",
+      "startTime": "2022-04-13T09:00:59.000Z",
+      "exerciseIds": [
+        {
+          "type": "Exercise",
+          "availableFor": [],
+          "status": "Active",
+          "title": "Solution : DPP 04 (MCQ Quiz)",
+          "content": [
+            {
+              "_id": "62569cb81c525b0018f7dc23",
+              "exerciseId": "62569cb73003fd00192534c2",
+              "timeline": []
+            }
+          ],
+          "slug": "solution---dpp-04--mcq-quiz--934716"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6253ce3093b6bb00181859a8",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-11T18:29:59.000Z",
+      "startTime": "2022-04-11T09:00:59.000Z",
+      "exerciseIds": [
+        {
+          "type": "Exercise",
+          "availableFor": [],
+          "status": "Active",
+          "title": "Solution : DPP 03 (MCQ Quiz)",
+          "content": [
+            {
+              "_id": "625433e87ceb6b0018148b5d",
+              "exerciseId": "625433e8f4f43300111f0ac2",
+              "timeline": []
+            }
+          ],
+          "slug": "solution---dpp-03--mcq-quiz--782379"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "624ffd717978f700187fd760",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-08T18:29:59.000Z",
+      "startTime": "2022-04-08T10:15:59.000Z",
+      "exerciseIds": [
+        {
+          "type": "Exercise",
+          "availableFor": [],
+          "status": "Active",
+          "title": "Solution : DPP 02 (MCQ Quiz)",
+          "content": [
+            {
+              "_id": "624ff5cd8bd54a0011d9ee09",
+              "exerciseId": "624ff5cdae99030011529f2a",
+              "timeline": []
+            }
+          ],
+          "slug": "solution---dpp-02--mcq-quiz--090292"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "624f19cd2931ba0011dae4e3",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-07T18:29:59.000Z",
+      "startTime": "2022-04-07T10:15:59.000Z",
+      "exerciseIds": [
+        {
+          "type": "Exercise",
+          "availableFor": [],
+          "status": "Active",
+          "title": "Solution : DPP 01 (MCQ Quiz)",
+          "content": [
+            {
+              "_id": "624ea73e95c5ba001805cc43",
+              "exerciseId": "624ea73efdaf1f0018a4f79c",
+              "timeline": []
+            }
+          ],
+          "slug": "solution---dpp-01--mcq-quiz--287387"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    }
+  ],
+  "paginate": {
+    "limit": 20,
+    "totalCount": 8
+  }
+}
