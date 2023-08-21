@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "data": [],
+  "paginate": {
+    "limit": 20,
+    "totalCount": null
+  },
+  "refresh": true
+}
