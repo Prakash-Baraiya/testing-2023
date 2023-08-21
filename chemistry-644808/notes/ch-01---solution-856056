@@ -1,0 +1,414 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "62677cf2d7edeb0011ef541a",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-26T18:29:59.000Z",
+      "startTime": "2022-04-26T11:00:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6267eb37bb68e6001128657d",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solutions 09 : Class Notes",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "6267eb36cc1b050018a18e41",
+              "name": "Liquid Solution Lec-09 (Pankaj sir) Lakshya NEET 2023_compressed.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/4f53d067-e129-44a5-a62c-f0351d467a33.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "626632146eaed000188e13f2",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-25T18:29:59.000Z",
+      "startTime": "2022-04-25T10:30:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "626693dae6d2b900185a82b5",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solutions 08 : Class Notes",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "626693d7e47c790018487366",
+              "name": "SOLUTION 08 NOTES_compressed.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/7b402a26-e727-452c-b78e-8b299572c670.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6260e9795c8373001150b351",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-21T18:29:59.000Z",
+      "startTime": "2022-04-21T10:30:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "62615489c1e1230018edde2d",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solutions 07 : Class Notes",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "62616bcb8ce4db001930de1d",
+              "name": "Lec-07_Liquid Solutions_Chemistry_(Lakshya NEET 2023) _Pankaj Sir_21042022_F -_compressed.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/2769294a-bad2-440b-91b2-0417312b836b.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "626128323111a5001129bba0",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-21T18:29:59.000Z",
+      "startTime": "2022-04-21T10:30:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "626127c2825c2900192043a7",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Chemical Kinetics : Study Module (Theory)",
+          "note": "Study Module (Theory)",
+          "attachmentIds": [
+            {
+              "_id": "626127bfbccc3e00138e0be3",
+              "name": "NEET Chemistry_Class-XII_Chapter_02 Theory pdf.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/644aa485-d304-4236-a76b-0c7e80936ef4.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        },
+        {
+          "_id": "62612783667696001103ccee",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Chemical Kinetics : Study Module (Solution)",
+          "note": "Study Module (Solution)",
+          "attachmentIds": [
+            {
+              "_id": "6261277d89c0090018ca5996",
+              "name": "NEET Chemistry_Class-XII_Chapter_02 Solution.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/b92137af-7b79-430e-8ced-af70aa607d2a.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        },
+        {
+          "_id": "626127284e03e200124d96d0",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Chemical Kinetics - 04 : Study Module",
+          "note": "Study Module",
+          "attachmentIds": [
+            {
+              "_id": "62612727a7303c001262c1ae",
+              "name": "NEET Chemistry_Class-XII_Chapter_02 Exer-4.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/6f288af0-a8d8-4904-9c55-8654e312cad8.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        },
+        {
+          "_id": "626127012c453900114e664e",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Chemical Kinetics - 03 : Study Module",
+          "note": "Study Module",
+          "attachmentIds": [
+            {
+              "_id": "626126f2a7303c001262c1ac",
+              "name": "NEET Chemistry_Class-XII_Chapter_02 Exer-3.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/fd5b0fe1-a7d3-4f5e-bb1b-e05aede21b2a.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        },
+        {
+          "_id": "626126cbbec63f00180af3ac",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Chemical Kinetics - 02 : Study Module",
+          "note": "Study Module",
+          "attachmentIds": [
+            {
+              "_id": "626126a47b54970018d431e3",
+              "name": "NEET Chemistry_Class-XII_Chapter_02 Exer-2.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/f3f97810-a409-4bfe-b804-fb04e97ddf8f.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        },
+        {
+          "_id": "6261267ba5180b001117f922",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Chemical Kinetics- 01 : Study Module",
+          "note": "Study Module",
+          "attachmentIds": [
+            {
+              "_id": "6261267658405c0011fa0652",
+              "name": "NEET Chemistry_Class-XII_Chapter_02 Exer-1.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/c156615f-7602-4ea4-9899-d5a1f6de4033.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "625fa8743d30d500181448af",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-20T18:29:59.000Z",
+      "startTime": "2022-04-20T10:30:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "626006f85aceea001152bed6",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solutions 06 : Class Notes",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "626006f699cdc5001bd392b3",
+              "name": "Lec-06_Liquid Solutions_Chemistry_(Lakshay NEET 2023) _Pankaj Sir_19042022_F -_compressed.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/ce8b87b4-0f2a-4876-85ce-e4ccdc23af44.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "625c3a5200c98c0011009c72",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-18T18:29:59.000Z",
+      "startTime": "2022-04-18T10:30:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "625d7007ff92410018cf04e3",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solutions 05 : Class Notes",
+          "note": "Solutions 05 : Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "625d6ff25a70a1001aedfe9a",
+              "name": "Lec-05_Liquid Solutions_Chemistry_(Lakshay NEET 2023) _Pankaj Sir_17042022_F - (1).pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/32b29680-5ba1-4cba-a452-4608793cd3b3.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "62565d2bad0c7e0012c31c95",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-13T18:29:59.000Z",
+      "startTime": "2022-04-13T09:00:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "6256b2854aeb280011835c33",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solution 04 : Class Notes",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "6256b28311271200187724eb",
+              "name": "Lec-04_Liquid Solutions_Chemistry_(Lakshay NEET 2023) _Pankaj Sir_12042022_F -_compressed.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/a05eae7e-a896-440b-9781-cb9b0ca798aa.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6253af90a5f54a001b09621b",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-11T18:29:59.000Z",
+      "startTime": "2022-04-11T09:00:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "62540e377ea3740018b2cfd9",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solution 03 : Class Notes",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "62540e355290f60018a2dba2",
+              "name": "Lec-03_Liquid Solutions_Chemistry_(Lakshay JEE 2023) _Pankaj Sir_10042022_F -_compressed.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/f6c92b3c-da72-4966-899f-448e151d9977.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "624fe448fb45e300118553f6",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-08T18:29:59.000Z",
+      "startTime": "2022-04-08T10:05:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "62505b1843c5ca0011b08f44",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solution 02 : Class Notes",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "62505b171aacdc0018f6727d",
+              "name": "Liquid Solutions Chemistry Lec-02 (Pankaj Sir) Lakshay JEE 2023_compressed.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/23f0e8e4-4506-4386-847f-fcfa27476cb1.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "624fddaeaf142a0018e41534",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2022-04-07T18:29:59.000Z",
+      "startTime": "2022-04-07T10:15:59.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "624effeccacc4d0018703c0c",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Solution 01 : Class Notes",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "624effeb99e7b700113bdec1",
+              "name": "Lec-01_Liquid Solutions_Chemistry_(Lakshay JEE 2023) _Pankaj Sir_06042022_final_compressed.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/1310a7a8-9283-44db-b84a-9ab913b15602.pdf"
+            }
+          ],
+          "batchSubjectId": "621c50dab298c400182cc957"
+        }
+      ],
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    }
+  ],
+  "paginate": {
+    "limit": 20,
+    "totalCount": null
+  }
+}
