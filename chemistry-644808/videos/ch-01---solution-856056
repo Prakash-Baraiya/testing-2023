@@ -1,0 +1,395 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "62677cf2d7edeb0011ef541a",
+      "restrictedSchedule": false,
+      "restrictedTime": 0,
+      "urlType": "penpencilvdo",
+      "tags": [
+        {
+          "_id": "624e866d9fdbec0018927e68",
+          "name": "Ch-01 : Solution"
+        }
+      ],
+      "isFree": false,
+      "isChatEnabled": false,
+      "isDoubtEnabled": true,
+      "isCommentDisabled": false,
+      "isPathshala": false,
+      "isDPPVideos": false,
+      "status": "PENDING",
+      "topic": "Solution 09 : PYQs Discussion II (NO DPP)",
+      "date": "2022-04-26T18:29:59.000Z",
+      "startTime": "2022-04-26T11:00:59.000Z",
+      "endTime": "2022-04-26T11:00:59.000Z",
+      "timeline": [],
+      "conversationId": "6267b712b8afbe0013d10163",
+      "url": "https://d1d34p8vz63oiq.cloudfront.net/21c7f126-6ebc-428e-84b6-f7e07549f00b/master.mpd",
+      "videoDetails": {
+        "_id": "6267e9b2e4e5ad0018a29447",
+        "id": "6267e9b2e4e5ad0018a29447",
+        "name": "Solution 09 : PYQs Discussion II (NO DPP)",
+        "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ffca1d00-8827-4cac-8054-6e1160893bea.png",
+        "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/21c7f126-6ebc-428e-84b6-f7e07549f00b/master.mpd",
+        "duration": "01:24:11",
+        "status": "Ready",
+        "types": [
+          "DASH",
+          "HLS"
+        ],
+        "createdAt": "2022-04-26T12:46:42.470Z",
+        "drmProtected": false
+      },
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "626632146eaed000188e13f2",
+      "restrictedSchedule": false,
+      "restrictedTime": 0,
+      "urlType": "penpencilvdo",
+      "tags": [
+        {
+          "_id": "624e866d9fdbec0018927e68",
+          "name": "Ch-01 : Solution"
+        }
+      ],
+      "isFree": false,
+      "isChatEnabled": false,
+      "isDoubtEnabled": true,
+      "isCommentDisabled": false,
+      "isPathshala": false,
+      "isDPPVideos": false,
+      "status": "PENDING",
+      "topic": "Solution 08 : Henry's Law II Practice Session",
+      "date": "2022-04-25T18:29:59.000Z",
+      "startTime": "2022-04-25T10:30:59.000Z",
+      "endTime": "2022-04-25T10:30:59.000Z",
+      "timeline": [],
+      "conversationId": "6266322915bf160018f0f8c9",
+      "url": "https://d1d34p8vz63oiq.cloudfront.net/fbd5e660-fbb6-46ae-a903-9a1c3fdb2c14/master.mpd",
+      "videoDetails": {
+        "_id": "6266952bee1ea70011259f10",
+        "id": "6266952bee1ea70011259f10",
+        "name": "Solution 08 : Henry's Law II Practice Session",
+        "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/61a65c33-b608-4977-930e-dd6ae60a9ee5.png",
+        "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/fbd5e660-fbb6-46ae-a903-9a1c3fdb2c14/master.mpd",
+        "duration": "01:36:17",
+        "status": "Ready",
+        "types": [
+          "DASH",
+          "HLS"
+        ],
+        "createdAt": "2022-04-25T12:33:47.147Z",
+        "drmProtected": false
+      },
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6260e9795c8373001150b351",
+      "restrictedSchedule": false,
+      "restrictedTime": 0,
+      "urlType": "penpencilvdo",
+      "tags": [
+        {
+          "_id": "624e866d9fdbec0018927e68",
+          "name": "Ch-01 : Solution"
+        }
+      ],
+      "isFree": false,
+      "isChatEnabled": false,
+      "isDoubtEnabled": true,
+      "isCommentDisabled": false,
+      "isPathshala": false,
+      "isDPPVideos": false,
+      "status": "PENDING",
+      "topic": "Solution 07 : Colligative Properties Part-03 II Van't hoff Factor Abnormal Molar Mass",
+      "date": "2022-04-21T18:29:59.000Z",
+      "startTime": "2022-04-21T10:30:59.000Z",
+      "endTime": "2022-04-21T10:30:59.000Z",
+      "timeline": [],
+      "conversationId": "6260e9ac7d48a800119ecc70",
+      "url": "https://d1d34p8vz63oiq.cloudfront.net/37577417-0193-4488-a67b-db79bdc9c963/master.mpd",
+      "videoDetails": {
+        "_id": "6261580ce7464f001837b239",
+        "id": "6261580ce7464f001837b239",
+        "name": "Solution 07 : Colligative Properties Part-03 II Van't hoff Factor Abnormal Molar Mass",
+        "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/54e4a970-83ce-4126-884d-574e76047d85.png",
+        "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/37577417-0193-4488-a67b-db79bdc9c963/master.mpd",
+        "duration": "02:04:07",
+        "status": "Ready",
+        "types": [
+          "DASH",
+          "HLS"
+        ],
+        "createdAt": "2022-04-21T13:11:40.599Z",
+        "drmProtected": false
+      },
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "625fa8743d30d500181448af",
+      "restrictedSchedule": false,
+      "restrictedTime": 0,
+      "urlType": "penpencilvdo",
+      "tags": [
+        {
+          "_id": "624e866d9fdbec0018927e68",
+          "name": "Ch-01 : Solution"
+        }
+      ],
+      "isFree": false,
+      "isChatEnabled": false,
+      "isDoubtEnabled": true,
+      "isCommentDisabled": false,
+      "isPathshala": false,
+      "isDPPVideos": false,
+      "status": "PENDING",
+      "topic": "Solution 06 : Colligative Properties Part-02",
+      "date": "2022-04-20T18:29:59.000Z",
+      "startTime": "2022-04-20T10:30:59.000Z",
+      "endTime": "2022-04-20T10:30:59.000Z",
+      "timeline": [],
+      "conversationId": "625fa888fb52e2001811315e",
+      "url": "https://d1d34p8vz63oiq.cloudfront.net/522ebb61-7a73-4adf-9a14-5152f7394eab/master.mpd",
+      "videoDetails": {
+        "_id": "6260051fe83a9a0011c873ca",
+        "id": "6260051fe83a9a0011c873ca",
+        "name": "Solutions 06 : Colligative Properties Part-02",
+        "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1124026c-c671-4385-a3a5-002b0cced5ef.png",
+        "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/522ebb61-7a73-4adf-9a14-5152f7394eab/master.mpd",
+        "duration": "02:03:55",
+        "status": "Ready",
+        "types": [
+          "DASH",
+          "HLS"
+        ],
+        "createdAt": "2022-04-20T13:05:35.514Z",
+        "drmProtected": false
+      },
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "625c3a5200c98c0011009c72",
+      "restrictedSchedule": false,
+      "restrictedTime": 0,
+      "urlType": "penpencilvdo",
+      "tags": [
+        {
+          "_id": "624e866d9fdbec0018927e68",
+          "name": "Ch-01 : Solution"
+        }
+      ],
+      "isFree": false,
+      "isChatEnabled": false,
+      "isDoubtEnabled": true,
+      "isCommentDisabled": false,
+      "isPathshala": false,
+      "isDPPVideos": false,
+      "status": "PENDING",
+      "topic": "Solution 05 : Colligative Properties Part-01",
+      "date": "2022-04-18T18:29:59.000Z",
+      "startTime": "2022-04-18T10:30:59.000Z",
+      "endTime": "2022-04-18T10:30:59.000Z",
+      "timeline": [],
+      "conversationId": "625d225251c75c001853eeec",
+      "url": "https://d1d34p8vz63oiq.cloudfront.net/a788e5af-4356-4434-a9b8-8929d609a927/master.mpd",
+      "videoDetails": {
+        "_id": "625d61e12237c60011e7225a",
+        "id": "625d61e12237c60011e7225a",
+        "name": "Solutions 05 : Colligative Properties Part-01",
+        "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/70f1ed1c-c84c-4796-8835-b22bb36cb416.png",
+        "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/a788e5af-4356-4434-a9b8-8929d609a927/master.mpd",
+        "duration": "01:57:24",
+        "status": "Ready",
+        "types": [
+          "DASH",
+          "HLS"
+        ],
+        "createdAt": "2022-04-18T13:04:33.843Z",
+        "drmProtected": false
+      },
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "62565d2bad0c7e0012c31c95",
+      "restrictedSchedule": false,
+      "restrictedTime": 0,
+      "urlType": "penpencilvdo",
+      "tags": [
+        {
+          "_id": "624e866d9fdbec0018927e68",
+          "name": "Ch-01 : Solution"
+        }
+      ],
+      "isFree": false,
+      "isChatEnabled": false,
+      "isDoubtEnabled": true,
+      "isCommentDisabled": false,
+      "isPathshala": false,
+      "isDPPVideos": false,
+      "status": "PENDING",
+      "topic": "Solution 04 : Non ideal Solution II Azeotropes",
+      "date": "2022-04-13T18:29:59.000Z",
+      "startTime": "2022-04-13T09:00:59.000Z",
+      "endTime": "2022-04-13T09:00:59.000Z",
+      "timeline": [],
+      "conversationId": "62565d4201142400183e9d97",
+      "url": "https://d1d34p8vz63oiq.cloudfront.net/07e6fbee-11cb-4499-91d0-6cec16e55426/master.mpd",
+      "videoDetails": {
+        "_id": "6256b690baf549001848cc8e",
+        "id": "6256b690baf549001848cc8e",
+        "name": "Solution 04 : Non ideal Solution II Azeotropes",
+        "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/42215f86-40aa-4e56-8d68-832b2841a3f9.png",
+        "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/07e6fbee-11cb-4499-91d0-6cec16e55426/master.mpd",
+        "duration": "02:02:44",
+        "status": "Ready",
+        "types": [
+          "DASH",
+          "HLS"
+        ],
+        "createdAt": "2022-04-13T11:40:00.710Z",
+        "drmProtected": false
+      },
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "6253af90a5f54a001b09621b",
+      "restrictedSchedule": false,
+      "restrictedTime": 0,
+      "urlType": "penpencilvdo",
+      "tags": [
+        {
+          "_id": "624e866d9fdbec0018927e68",
+          "name": "Ch-01 : Solution"
+        }
+      ],
+      "isFree": false,
+      "isChatEnabled": false,
+      "isDoubtEnabled": true,
+      "isCommentDisabled": false,
+      "isPathshala": false,
+      "isDPPVideos": false,
+      "status": "PENDING",
+      "date": "2022-04-11T18:29:59.000Z",
+      "startTime": "2022-04-11T09:00:59.000Z",
+      "endTime": "2022-04-11T09:00:59.000Z",
+      "timeline": [],
+      "topic": "Solution 03 : Raoults Law II Ideal Solution",
+      "conversationId": "6253ca02037e2400188369ec",
+      "url": "https://d1d34p8vz63oiq.cloudfront.net/6e3d4776-7ef9-4cef-97e1-9d1c4e061d9f/master.mpd",
+      "videoDetails": {
+        "_id": "6254111dec798400110306fb",
+        "id": "6254111dec798400110306fb",
+        "name": "Solutions 03 : Raoults Law II Ideal Solution",
+        "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/dd0a83b0-a0c4-4770-ba91-140ae565bc52.png",
+        "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/6e3d4776-7ef9-4cef-97e1-9d1c4e061d9f/master.mpd",
+        "duration": "01:57:14",
+        "status": "Ready",
+        "types": [
+          "DASH",
+          "HLS"
+        ],
+        "createdAt": "2022-04-11T11:29:33.054Z",
+        "drmProtected": false
+      },
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "624fe448fb45e300118553f6",
+      "restrictedSchedule": false,
+      "restrictedTime": 0,
+      "urlType": "penpencilvdo",
+      "tags": [
+        {
+          "_id": "624e866d9fdbec0018927e68",
+          "name": "Ch-01 : Solution"
+        }
+      ],
+      "isFree": false,
+      "isChatEnabled": false,
+      "isDoubtEnabled": true,
+      "isCommentDisabled": false,
+      "isPathshala": false,
+      "isDPPVideos": false,
+      "status": "PENDING",
+      "topic": "Solution 02 : Concentration Terms (Remaining ) || Vapour Pressure",
+      "date": "2022-04-08T18:29:59.000Z",
+      "startTime": "2022-04-08T10:05:59.000Z",
+      "endTime": "2022-04-08T10:05:59.000Z",
+      "timeline": [],
+      "conversationId": "624fe448fb45e300118553f7",
+      "url": "https://d1d34p8vz63oiq.cloudfront.net/301d2a4a-8bb0-4beb-a1f1-2e608b0267f2/master.mpd",
+      "videoDetails": {
+        "_id": "625037406002240011313fe9",
+        "id": "625037406002240011313fe9",
+        "name": "Solution 02 : Concentration terms (Remaining ) || Vapour  pressure",
+        "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9a391ef1-5a81-4d8f-8c53-d74dd9646f4f.png",
+        "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/301d2a4a-8bb0-4beb-a1f1-2e608b0267f2/master.mpd",
+        "duration": "02:04:05",
+        "status": "Ready",
+        "types": [
+          "DASH",
+          "HLS"
+        ],
+        "createdAt": "2022-04-08T13:23:12.796Z",
+        "drmProtected": false
+      },
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "624fddaeaf142a0018e41534",
+      "restrictedSchedule": false,
+      "restrictedTime": 0,
+      "urlType": "penpencilvdo",
+      "tags": [
+        {
+          "_id": "624e866d9fdbec0018927e68",
+          "name": "Ch-01 : Solution"
+        }
+      ],
+      "isFree": false,
+      "isChatEnabled": false,
+      "isDoubtEnabled": true,
+      "isCommentDisabled": false,
+      "isPathshala": false,
+      "isDPPVideos": false,
+      "status": "PENDING",
+      "topic": "Solution 01 : Concentration Terms",
+      "date": "2022-04-07T18:29:59.000Z",
+      "startTime": "2022-04-07T10:15:59.000Z",
+      "endTime": "2022-04-07T10:15:59.000Z",
+      "timeline": [],
+      "url": "https://d1d34p8vz63oiq.cloudfront.net/4e098466-4c6c-486f-b519-d7f6251e2e55/master.mpd",
+      "videoDetails": {
+        "_id": "624ef2a86e59340018f84d38",
+        "id": "624ef2a86e59340018f84d38",
+        "name": "Solution 01 : Concentration Terms",
+        "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/558f418c-ca5f-45a1-9531-a248b03479b8.png",
+        "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/4e098466-4c6c-486f-b519-d7f6251e2e55/master.mpd",
+        "duration": "01:05:06",
+        "status": "Ready",
+        "types": [
+          "DASH",
+          "HLS"
+        ],
+        "createdAt": "2022-04-07T14:18:16.617Z",
+        "drmProtected": false
+      },
+      "dRoomId": "624e8ceb80870b0019923ab2",
+      "isBatchDoubtEnabled": true
+    }
+  ],
+  "paginate": {
+    "limit": 20,
+    "totalCount": null
+  }
+}
